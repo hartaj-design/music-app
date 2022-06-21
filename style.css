@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: cornsilk;
+}
+#div1{
+  float:left;
+}
+#div2{
+    float:right;
+}
+#img1{
+    height: 200px; ;
+    width: 200px;
+}
+#img2{
+    height: 200px; ;
+    width: 200px;
+}
+#b1{
+color:black;
+background-color: crimson;
+margin-top: 40px;
+font-size: 30px;
+}
+canvas{
+    margin-top: 100px;
+}
